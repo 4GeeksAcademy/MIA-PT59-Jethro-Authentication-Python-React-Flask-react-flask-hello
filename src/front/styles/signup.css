@@ -1,0 +1,15 @@
+h1{
+    font-size: x-large;
+    color : blue;
+    font-family: Verdana;
+}
+input{
+    background-color: lightskyblue;
+    font-size: medium;
+    color: black;
+}
+button{
+    background-color: lightblue;
+    font-size: large;
+    font-family: Lucida Sans;
+}
